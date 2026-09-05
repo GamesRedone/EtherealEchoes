@@ -1,12 +1,11 @@
 ## v1.0.0 -> v1.1.0
 
 ### Renamed
+- BethINI -> BethINI Pie
 
 ## v1.1.0 -> v1.2.0
 
 ### Renamed
-- TEST - Old Name Pre Rename -> TEST - New Name Post Rename
-- TEST_OldNamePlugin.esp -> TEST_NewNamePlugin.esp
 
 ## v1.2.0 -> v1.3.0
 
