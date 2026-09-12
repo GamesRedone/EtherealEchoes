@@ -1,1 +1,3 @@
-# EtherealEchoes
+# Ethereal Echoes
+
+Coming soon!
